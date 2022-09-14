@@ -27,10 +27,15 @@ HTML CSS
 Инструменты:
 
 Pycharm 
+
 Selenium
+
 Pytest 
+
 GitHub 
+
 Trello 
+
 Jira
 
 Опыт работы:
