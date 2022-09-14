@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexey.
 
-QA/AQA на Python
+QA/AQA on Python
 
 Ключевые компетенции:
 
