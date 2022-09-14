@@ -26,7 +26,12 @@ HTML CSS
 
 Инструменты:
 
-Pycharm Selenium Pytest GitHub Trello Jira
+Pycharm 
+Selenium
+Pytest 
+GitHub 
+Trello 
+Jira
 
 Опыт работы:
 
