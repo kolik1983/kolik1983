@@ -20,6 +20,8 @@ Docker
 
 Postman
 
+Fidller
+
 Дополнительно:
 
 HTML CSS
