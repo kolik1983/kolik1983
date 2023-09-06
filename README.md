@@ -106,6 +106,8 @@ Cсылка на репозиторий API тестов: https://github.com/kol
 
 Cсылка на репозиторий автотесты по сайту СРМ: https://github.com/kolik1983/auto_test_CRM
 
+Cсылка на репозиторий автотесты по лендингу ExLab: https://github.com/kolik1983/autotest_landing_2.0_ExLab
+
 В данный момент активно подтягиваю навыки работы на Python. Так же продолжаю развивать навыки написания автотестов.
 
 Контакты Telegram: @kolik83 phone: +7 (991) 327 20 02
