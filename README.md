@@ -38,8 +38,6 @@ Pytest
 
 SQL
 
-GitHub 
-
 Trello 
 
 Jira
